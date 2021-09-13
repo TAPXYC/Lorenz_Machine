@@ -1,0 +1,379 @@
+﻿<Page x:Class="CW___SZ4042.Learning"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:CW___SZ4042"
+      mc:Ignorable="d" 
+      d:DesignHeight="600" d:DesignWidth="900">
+    <Page.Resources>
+        <!--Scrollbar-->
+        <Style x:Key="ScrollBarLineButtonStyle" TargetType="{x:Type RepeatButton}">
+            <Setter Property="Focusable" Value="False"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type RepeatButton}">
+                        <Canvas Height="18">
+                            <Polygon Fill="LightBlue" Points="3,15 15,15 9,3"></Polygon>
+                        </Canvas>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style x:Key="ScrollBarLineButtonBottomStyle" TargetType="{x:Type RepeatButton}">
+            <Setter Property="Focusable" Value="False"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type RepeatButton}">
+                        <Canvas Height="18">
+                            <Polygon Fill="LightBlue" Points="3,3 9,15 15,3"></Polygon>
+                        </Canvas>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style x:Key="ScrollBarPageButtonStyle" TargetType="{x:Type RepeatButton}">
+            <Setter Property="IsTabStop" Value="False"/>
+            <Setter Property="Focusable" Value="False"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type RepeatButton}">
+                        <Border BorderBrush="Transparent"></Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style x:Key="ScrollBarThumbStyle" TargetType="{x:Type Thumb}">
+            <Setter Property="IsTabStop" Value="False"/>
+            <Setter Property="Focusable" Value="False"/>
+            <Setter Property="Margin" Value="1,0,1,0" />
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Thumb}">
+                        <Rectangle Fill="LightBlue" RadiusX="5" RadiusY="5" Margin="2"></Rectangle>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <ControlTemplate x:Key="VerticalScrollBar" TargetType="{x:Type ScrollBar}">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition MaxHeight="18"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition MaxHeight="18"/>
+                </Grid.RowDefinitions>
+
+                <RepeatButton Grid.Row="0" Height="18"
+                          Style="{StaticResource ScrollBarLineButtonStyle}"
+                          Command="ScrollBar.LineUpCommand" >
+                </RepeatButton>
+                <Track Name="PART_Track" Grid.Row="1" IsDirectionReversed="True">
+                    <Track.DecreaseRepeatButton>
+                        <RepeatButton Command="ScrollBar.PageUpCommand" Style="{StaticResource ScrollBarPageButtonStyle}">
+                        </RepeatButton>
+                    </Track.DecreaseRepeatButton>
+                    <Track.Thumb>
+                        <Thumb Style="{StaticResource ScrollBarThumbStyle}">
+                        </Thumb>
+                    </Track.Thumb>
+                    <Track.IncreaseRepeatButton>
+                        <RepeatButton Command="ScrollBar.PageDownCommand" Style="{StaticResource ScrollBarPageButtonStyle}">
+                        </RepeatButton>
+                    </Track.IncreaseRepeatButton>
+                </Track>
+                <RepeatButton Grid.Row="3" Height="18"
+                          Style="{StaticResource ScrollBarLineButtonBottomStyle}"
+                          Command="ScrollBar.LineDownCommand">
+                </RepeatButton>
+            </Grid>
+        </ControlTemplate>
+
+        <Style TargetType="{x:Type ScrollBar}">
+            <Setter Property="Template" Value="{StaticResource VerticalScrollBar}"/>
+        </Style>
+    </Page.Resources>
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="500"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Canvas>
+            <Rectangle x:Name="Example"  Stroke="Black" StrokeThickness="1"  Width="480" Height="250"
+                       Canvas.Left="10" Canvas.Top="60"/>
+
+
+
+            <TextBlock FontSize="12" Foreground="Cyan" FontWeight="Bold"
+                   Canvas.Left="5" Canvas.Top="5">
+                <TextBlock.Effect>
+                    <DropShadowEffect BlurRadius="10" ShadowDepth="0" Color="Black"/>
+                </TextBlock.Effect>
+                
+                Шифровальные 
+                <LineBreak/>
+                колёса
+            </TextBlock>
+            <Polyline Points="20,40 20,60" Stroke="Cyan" StrokeThickness="2"/>
+
+            <Rectangle Stroke="Cyan" StrokeThickness="5" RadiusX="2" RadiusY="2"  Width="480" Height="125" 
+                    Canvas.Left="10" Canvas.Top="60"/>
+
+
+
+            <TextBlock FontSize="12" Foreground="#FFCEFF00" FontWeight="Bold"
+                   Canvas.Left="50" Canvas.Top="35">
+                <TextBlock.Effect>
+                    <DropShadowEffect BlurRadius="10" ShadowDepth="0" Color="Black"/>
+                </TextBlock.Effect>
+                Символ Ψ-колёс
+            </TextBlock>
+            <Polyline Points="130,50 190,106" Stroke="#FFCEFF00" StrokeThickness="2"/>
+
+            <Rectangle Stroke="#FFCEFF00" StrokeThickness="3" RadiusX="2" RadiusY="2"  Width="29" Height="40" 
+                    Canvas.Left="185" Canvas.Top="105"/>
+
+
+            <TextBlock FontSize="12" Foreground="#FF80FF00" FontWeight="Bold"
+                   Canvas.Left="230" Canvas.Top="35">
+                <TextBlock.Effect>
+                    <DropShadowEffect BlurRadius="10" ShadowDepth="0" Color="Black"/>
+                </TextBlock.Effect>
+                Символ Х-колёс
+            </TextBlock>
+            <Polyline Points="300,50 300,106" Stroke="#FF80FF00" StrokeThickness="2"/>
+            <Rectangle Stroke="#FF80FF00" StrokeThickness="3" RadiusX="2" RadiusY="2"  Width="29" Height="40" 
+                    Canvas.Left="287" Canvas.Top="105"/>
+
+
+
+            <TextBlock Text="Текущее значение колеса" FontSize="12" Foreground="Violet" FontWeight="Bold"
+                   Canvas.Left="130" Canvas.Top="5">
+                <TextBlock.Effect>
+                    <DropShadowEffect BlurRadius="10" ShadowDepth="0" Color="White"/>
+                </TextBlock.Effect>
+            </TextBlock>
+            <Polyline Points="160,22 250,106" Stroke="Violet" StrokeThickness="2"/>
+
+            <Rectangle Stroke="Violet" StrokeThickness="3" RadiusX="2" RadiusY="2"  Width="38" Height="40" 
+                    Canvas.Left="248" Canvas.Top="105"/>
+
+
+
+            <TextBlock Text="Название колеса" FontSize="12" Foreground="Red" FontWeight="Bold"
+                   Canvas.Left="350" Canvas.Top="30">
+                <TextBlock.Effect>
+                    <DropShadowEffect BlurRadius="10" ShadowDepth="0" Color="White"/>
+                </TextBlock.Effect>
+            </TextBlock>
+            <Polyline Points="400,45 400,64" Stroke="Red" StrokeThickness="2"/>
+
+            <Rectangle Stroke="Red" StrokeThickness="3" RadiusX="2" RadiusY="2"  Width="35" Height="20" 
+                    Canvas.Left="385" Canvas.Top="63"/>
+
+
+            <TextBlock Text="Текущий индекс колеса" FontSize="12" Foreground="Blue" FontWeight="Bold"
+                   Canvas.Left="355" Canvas.Top="5">
+                <TextBlock.Effect>
+                    <DropShadowEffect BlurRadius="10" ShadowDepth="0" Color="White"/>
+                </TextBlock.Effect>
+            </TextBlock>
+            <Polyline Points="465,25 465,163" Stroke="Blue" StrokeThickness="2" Canvas.Left="5"/>
+
+            <Ellipse Stroke="Blue" StrokeThickness="3" Width="20" Height="20" 
+                    Canvas.Left="459" Canvas.Top="163"/>
+
+
+            <TextBlock FontSize="12" Foreground="#FF8BFFFF" FontWeight="Bold" TextAlignment="Center"
+                   Canvas.Left="210" Canvas.Top="310">
+                <TextBlock.Effect>
+                    <DropShadowEffect BlurRadius="10" ShadowDepth="0" Color="Black"/>
+                </TextBlock.Effect>
+                
+                Шифрование
+                <LineBreak/>
+                (режим)
+                 <LineBreak/>Расшифровывание
+            </TextBlock>
+            <Polyline Points="260,315 260,230" Stroke="#FF8BFFFF" StrokeThickness="2"/>
+
+            <Rectangle Stroke="#FF8BFFFF" StrokeThickness="3" RadiusX="2" RadiusY="2"  Width="105" Height="20" 
+                    Canvas.Left="197" Canvas.Top="210"/>
+
+
+
+
+            <TextBlock FontSize="12" Foreground="#130873" FontWeight="Bold" TextAlignment="Center"
+                   Canvas.Left="25" Canvas.Top="408">
+                <TextBlock.Effect>
+                    <DropShadowEffect BlurRadius="10" ShadowDepth="0" Color="White"/>
+                </TextBlock.Effect>
+                
+                Настройки <LineBreak/>шифровальных колёс
+            </TextBlock>
+            <Polyline Points="50,230 60,410" Stroke="#130873" StrokeThickness="2"/>
+
+            <Rectangle Stroke="#130873" StrokeThickness="3" RadiusX="2" RadiusY="2"  Width="78" Height="23" 
+                    Canvas.Left="16" Canvas.Top="209"/>
+
+
+            <TextBlock FontSize="12" Foreground="#FF22FF00" FontWeight="Bold" TextAlignment="Center"
+                   Canvas.Left="5" Canvas.Top="450">
+                <TextBlock.Effect>
+                    <DropShadowEffect BlurRadius="10" ShadowDepth="0" Color="White"/>
+                </TextBlock.Effect>
+                
+                Изначальное битовое 
+                <LineBreak/>
+                представление буквы
+            </TextBlock>
+            <Polyline Points="20,209 20,450" Stroke="#FF22FF00" StrokeThickness="2"/>
+
+            <Rectangle Stroke="#FF22FF00" StrokeThickness="3" RadiusX="2" RadiusY="2"  Width="170" Height="26" 
+                    Canvas.Left="16" Canvas.Top="185"/>
+
+
+
+
+
+
+
+
+
+
+
+            <TextBlock FontSize="12" Foreground="Black" FontWeight="Bold" TextAlignment="Center"
+                   Canvas.Left="180" Canvas.Top="370">
+                <TextBlock.Effect>
+                    <DropShadowEffect BlurRadius="10" ShadowDepth="0" Color="White"/>
+                </TextBlock.Effect>
+                <Span Foreground="#FFFF00EA" >
+                Изначальное
+                </Span> 
+                и 
+                <Span Foreground="#FFFF9400" >
+                конечное
+                </Span> 
+                <LineBreak/>
+               символьное представление  
+                <LineBreak/>введённой буквы
+            </TextBlock>
+            <Polyline Points="175,230 200,373" Stroke="#FFFF00EA" StrokeThickness="2"/>
+
+            <Ellipse Stroke="#FFFF00EA" StrokeThickness="3"  Width="23" Height="23" 
+                    Canvas.Left="158.5" Canvas.Top="208.5"/>
+            <Polyline Points="375,230 325,373" Stroke="#FFFF9400" StrokeThickness="2"/>
+
+            <Ellipse Stroke="#FFFF9400" StrokeThickness="3"  Width="23" Height="23" 
+                    Canvas.Left="365.5" Canvas.Top="208.5"/>
+
+
+
+            <TextBlock FontSize="12" Foreground="#FFED00FF" FontWeight="Bold" TextAlignment="Center"
+                   Canvas.Left="365" Canvas.Top="450">
+                <TextBlock.Effect>
+                    <DropShadowEffect BlurRadius="10" ShadowDepth="0" Color="White"/>
+                </TextBlock.Effect>
+                
+                Конечное битовое 
+                <LineBreak/>
+                представление буквы
+            </TextBlock>
+            <Polyline Points="483,209 483,450" Stroke="#FFED00FF" StrokeThickness="2"/>
+
+            <Rectangle Stroke="#FFED00FF" StrokeThickness="3" RadiusX="2" RadiusY="2"  Width="170" Height="26" 
+                    Canvas.Left="315" Canvas.Top="185"/>
+
+
+            <TextBlock FontSize="12" FontWeight="Bold" TextAlignment="Center"
+                   Canvas.Left="360" Canvas.Top="340">
+                
+                Кнопки:
+                <LineBreak/>
+                <Span Foreground="#A2000C" >
+                Очистить поле
+                </Span>  
+                <LineBreak/>
+                <Span Foreground="#FF00C1FF" >
+                Загрузить файл
+                </Span>
+                 <LineBreak/>
+                <Span Foreground="#FF0AFF00" >
+                Сохранить файл
+                </Span>
+            </TextBlock>
+
+            <Polyline Points="444,290 410,290" Stroke="#FF0AFF00" StrokeThickness="2"/>
+            <Polyline Points="444,265 410,265" Stroke="#FF00C1FF" StrokeThickness="2"/>
+            <Polyline Points="444,240 410,240" Stroke="#A2000C" StrokeThickness="2"/>
+            <Polyline Points="410,240 410,343" Stroke="#FF0B0C02" StrokeThickness="2"/>
+
+            <Rectangle Stroke="#FF0AFF00" StrokeThickness="3" RadiusX="2" RadiusY="2"  Width="36" Height="25" 
+                    Canvas.Left="444" Canvas.Top="278"/>
+
+            <Rectangle Stroke="#FF00C1FF" StrokeThickness="3" RadiusX="2" RadiusY="2"  Width="36" Height="25" 
+                    Canvas.Left="444" Canvas.Top="252"/>
+
+            <Rectangle Stroke="#A2000C" StrokeThickness="3" RadiusX="2" RadiusY="2"  Width="36" Height="25" 
+                    Canvas.Left="444" Canvas.Top="228"/>
+        </Canvas>
+
+
+
+
+        <Rectangle x:Name="Separator" Width="10" HorizontalAlignment="Right" Stroke="Black" StrokeThickness="1" Margin="10,0,-10,0">
+            <Rectangle.Fill>
+                <LinearGradientBrush EndPoint="5,1" StartPoint="0,0">
+                    <GradientStop Color="#FF9B9B9B" Offset="0.592"/>
+                    <GradientStop Color="White" Offset="0.838"/>
+                    <GradientStop Color="#FFD8D8D8" Offset="0.324"/>
+                    <GradientStop Color="#FFA4A4A4" Offset="0.966"/>
+                    <GradientStop Color="#FF969696" Offset="0.162"/>
+                    <GradientStop Color="White"/>
+                </LinearGradientBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+
+        <ScrollViewer x:Name="Theory" Grid.Column="1">
+            <StackPanel>
+                <StackPanel.Resources>
+                    <Style TargetType="TextBlock" x:Key="Title">
+                        <Setter  Property="Margin" Value="20,20,5,20"/>
+                        <Setter Property="FontSize" Value="26" />
+                        <Setter Property="TextAlignment" Value="Center"/>
+                        <Setter Property="FontWeight" Value="Bold"/>
+                        <Setter Property="TextWrapping" Value="Wrap"/>
+                    </Style>
+
+                    <Style x:Key="Content" TargetType="TextBlock">
+                        <Setter Property="TextAlignment" Value="Justify"/>
+                        <Setter Property="Margin" Value="15,0,10,0"/>
+                        <Setter Property="FontSize" Value="16"/>
+                        <Setter Property="TextWrapping" Value="Wrap"/>
+                    </Style>
+                </StackPanel.Resources>
+                <TextBlock x:Name="Baraban_Title" Text="Настройки" Style="{StaticResource Title}"/>
+
+                <TextBlock Text="Прежде чем вы сможете что-то по-настоящему зашифровать, необходимо сначала настроить машину. Не верите? Попробуйте понажимать клавиши на своей клавиатуре, для большей наглядности можно попробовать ввести осмысленный текст. Если Вы сделали, то скорее всего, Вы заметили, что в поле шифротекста - промежуточный код. Конечно, он немного отличается от исходного текста, но если противник, например британец, перехватит такое сообщение он сможет полностью прочесть ещё до того, как допьёт свой прекрасный английский чай. А нам этого не хочется, правда?
+                                 Чтобы усложнить задачу противнику, а нам упростить жизнь, нажмите кнопку ''Настроить''. Если после перехода на настроечную панель не станет интуитивно понятно, что делать - нажмите кнопку ''Помощь''." Style="{StaticResource Content}"/>
+
+
+
+                <TextBlock x:Name="StartText_Title" Text="Шифрование"  Style="{StaticResource Title}"/>
+
+                <TextBlock Text="Если в центре экрана горит надпись ''Сильная конфигурация'', то можно продожить, в противном случае, следует перенастроить свои настройки. Начните вводить текст латинскими буквами и наблюдайте результат. Обратите внимание на текущее значение на дисках - они показывают, как будет шифроваться символ при следующем нажатии. Отслеживая движения дисков, можно даже попробовать самим выполнить преобразования и сказать, какой символ получится дальше или как был получен предыдущий символ. Чтобы очистить все поля, нажмите на кнопку со значком мусорной урны. Чтобы вставить на автоматическое шифрование готовый текст, нажмите на кнопку со стрелкой. Чтобы сохранить полученный шифротекст - нажмите на кнопку с дискетой." Style="{StaticResource Content}"/>
+
+
+
+                <TextBlock x:Name="End_Title" Text="Дешифрование"  Style="{StaticResource Title}"/>
+
+                <TextBlock Text="Вообще говоря, такая функция машине не особо нужна, ведь сам процесс дешифрования в данной ситуации - это повторное шифрование при тех же настройках. Однако шифруется не само сообщение, а его промежуточный код, чтение которого не столько сложно, сколько утомительно, поэтому данный режим был создан для упрощения работы пользователю данной программы. Чтобы дешифровать сообщение достаточно нажать на переключатель в центре экрана и проделать то же, что и при шифровании. " Style="{StaticResource Content}"/>
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
+</Page>

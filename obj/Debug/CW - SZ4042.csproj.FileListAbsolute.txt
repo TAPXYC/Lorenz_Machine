@@ -1,0 +1,468 @@
+C:\Users\Вадим\source\repos\CW - SZ4042\bin\Debug\CW - SZ4042.exe.config
+C:\Users\Вадим\source\repos\CW - SZ4042\bin\Debug\CW - SZ4042.exe
+C:\Users\Вадим\source\repos\CW - SZ4042\bin\Debug\CW - SZ4042.pdb
+C:\Users\Вадим\source\repos\CW - SZ4042\obj\Debug\CW - SZ4042.csprojAssemblyReference.cache
+C:\Users\Вадим\source\repos\CW - SZ4042\obj\Debug\MainWindow.g.cs
+C:\Users\Вадим\source\repos\CW - SZ4042\obj\Debug\App.g.cs
+C:\Users\Вадим\source\repos\CW - SZ4042\obj\Debug\CW - SZ4042_MarkupCompile.cache
+C:\Users\Вадим\source\repos\CW - SZ4042\obj\Debug\CW - SZ4042_MarkupCompile.lref
+C:\Users\Вадим\source\repos\CW - SZ4042\obj\Debug\MainWindow.baml
+C:\Users\Вадим\source\repos\CW - SZ4042\obj\Debug\CW - SZ4042.g.resources
+C:\Users\Вадим\source\repos\CW - SZ4042\obj\Debug\CW___SZ4042.Properties.Resources.resources
+C:\Users\Вадим\source\repos\CW - SZ4042\obj\Debug\CW - SZ4042.csproj.GenerateResource.cache
+C:\Users\Вадим\source\repos\CW - SZ4042\obj\Debug\CW - SZ4042.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\source\repos\CW - SZ4042\obj\Debug\CW - SZ4042.exe
+C:\Users\Вадим\source\repos\CW - SZ4042\obj\Debug\CW - SZ4042.pdb
+C:\Users\Вадим\source\repos\CW - SZ4042\obj\Debug\App.baml
+C:\Users\Вадим\source\repos\CW - SZ4042\obj\Debug\CryptoPanel.g.cs
+C:\Users\Вадим\source\repos\CW - SZ4042\obj\Debug\CryptoPanel.baml
+C:\Users\Вадим\source\repos\CW - SZ4042\obj\Debug\Ablesatafel.g.cs
+C:\Users\Вадим\source\repos\CW - SZ4042\obj\Debug\Ablesatafel.baml
+C:\Users\madcat\Downloads\CW_-_SZ4042 (2)\CW - SZ4042\bin\Debug\CW - SZ4042.exe.config
+C:\Users\madcat\Downloads\CW_-_SZ4042 (2)\CW - SZ4042\bin\Debug\CW - SZ4042.exe
+C:\Users\madcat\Downloads\CW_-_SZ4042 (2)\CW - SZ4042\bin\Debug\CW - SZ4042.pdb
+C:\Users\madcat\Downloads\CW_-_SZ4042 (2)\CW - SZ4042\obj\Debug\CW - SZ4042.csprojAssemblyReference.cache
+C:\Users\madcat\Downloads\CW_-_SZ4042 (2)\CW - SZ4042\obj\Debug\CryptoPanel.g.cs
+C:\Users\madcat\Downloads\CW_-_SZ4042 (2)\CW - SZ4042\obj\Debug\MainWindow.g.cs
+C:\Users\madcat\Downloads\CW_-_SZ4042 (2)\CW - SZ4042\obj\Debug\App.g.cs
+C:\Users\madcat\Downloads\CW_-_SZ4042 (2)\CW - SZ4042\obj\Debug\CW - SZ4042_MarkupCompile.cache
+C:\Users\madcat\Downloads\CW_-_SZ4042 (2)\CW - SZ4042\obj\Debug\CW - SZ4042_MarkupCompile.lref
+C:\Users\madcat\Downloads\CW_-_SZ4042 (2)\CW - SZ4042\obj\Debug\App.baml
+C:\Users\madcat\Downloads\CW_-_SZ4042 (2)\CW - SZ4042\obj\Debug\CryptoPanel.baml
+C:\Users\madcat\Downloads\CW_-_SZ4042 (2)\CW - SZ4042\obj\Debug\MainWindow.baml
+C:\Users\madcat\Downloads\CW_-_SZ4042 (2)\CW - SZ4042\obj\Debug\CW - SZ4042.g.resources
+C:\Users\madcat\Downloads\CW_-_SZ4042 (2)\CW - SZ4042\obj\Debug\CW___SZ4042.Properties.Resources.resources
+C:\Users\madcat\Downloads\CW_-_SZ4042 (2)\CW - SZ4042\obj\Debug\CW - SZ4042.csproj.GenerateResource.cache
+C:\Users\madcat\Downloads\CW_-_SZ4042 (2)\CW - SZ4042\obj\Debug\CW - SZ4042.csproj.CoreCompileInputs.cache
+C:\Users\madcat\Downloads\CW_-_SZ4042 (2)\CW - SZ4042\obj\Debug\CW - SZ4042.exe
+C:\Users\madcat\Downloads\CW_-_SZ4042 (2)\CW - SZ4042\obj\Debug\CW - SZ4042.pdb
+C:\Users\madcat\Downloads\CW_-_SZ4042 (2)\CW - SZ4042\obj\Debug\Abracadabra.g.cs
+C:\Users\madcat\Downloads\CW_-_SZ4042 (2)\CW - SZ4042\obj\Debug\Abracadabra.baml
+D:\UserData\Downloads\CW_-_SZ4042-F\CW - SZ4042\obj\Debug\CW - SZ4042.csprojAssemblyReference.cache
+D:\UserData\Downloads\CW_-_SZ4042-F\CW - SZ4042\obj\Debug\Ablesatafel.g.cs
+D:\UserData\Downloads\CW_-_SZ4042-F\CW - SZ4042\obj\Debug\CryptoPanel.g.cs
+D:\UserData\Downloads\CW_-_SZ4042-F\CW - SZ4042\obj\Debug\MainWindow.g.cs
+D:\UserData\Downloads\CW_-_SZ4042-F\CW - SZ4042\obj\Debug\App.g.cs
+D:\UserData\Downloads\CW_-_SZ4042-F\CW - SZ4042\obj\Debug\CW - SZ4042_MarkupCompile.cache
+D:\UserData\Downloads\CW_-_SZ4042-F\CW - SZ4042\obj\Debug\CW - SZ4042_MarkupCompile.lref
+D:\UserData\Downloads\CW_-_SZ4042-F\CW - SZ4042\obj\Debug\CW - SZ4042.exe
+D:\UserData\Downloads\CW_-_SZ4042-F\CW - SZ4042\obj\Debug\CW - SZ4042.pdb
+D:\UserData\Downloads\CW_-_SZ4042-F\CW - SZ4042\bin\Debug\CW - SZ4042.exe.config
+D:\UserData\Downloads\CW_-_SZ4042-F\CW - SZ4042\bin\Debug\CW - SZ4042.exe
+D:\UserData\Downloads\CW_-_SZ4042-F\CW - SZ4042\bin\Debug\CW - SZ4042.pdb
+D:\UserData\Downloads\CW_-_SZ4042-F\CW - SZ4042\obj\Debug\App.baml
+D:\UserData\Downloads\CW_-_SZ4042-F\CW - SZ4042\obj\Debug\Ablesatafel.baml
+D:\UserData\Downloads\CW_-_SZ4042-F\CW - SZ4042\obj\Debug\CryptoPanel.baml
+D:\UserData\Downloads\CW_-_SZ4042-F\CW - SZ4042\obj\Debug\MainWindow.baml
+D:\UserData\Downloads\CW_-_SZ4042-F\CW - SZ4042\obj\Debug\CW - SZ4042.g.resources
+D:\UserData\Downloads\CW_-_SZ4042-F\CW - SZ4042\obj\Debug\CW___SZ4042.Properties.Resources.resources
+D:\UserData\Downloads\CW_-_SZ4042-F\CW - SZ4042\obj\Debug\CW - SZ4042.csproj.GenerateResource.cache
+D:\UserData\Downloads\CW_-_SZ4042-F\CW - SZ4042\obj\Debug\CW - SZ4042.csproj.CoreCompileInputs.cache
+D:\UserData\Downloads\CW_-_SZ4042-F\CW - SZ4042\obj\Debug\AblInstructions.g.cs
+D:\UserData\Downloads\CW_-_SZ4042-F\CW - SZ4042\obj\Debug\NavigationWindow.g.cs
+D:\UserData\Downloads\CW_-_SZ4042-F\CW - SZ4042\obj\Debug\AblInstructions.baml
+D:\UserData\Downloads\CW_-_SZ4042-F\CW - SZ4042\obj\Debug\NavigationWindow.baml
+D:\UserData\Downloads\CW_-_SZ4042-F\CW - SZ4042\obj\Debug\NavigationPage.g.cs
+D:\UserData\Downloads\CW_-_SZ4042-F\CW - SZ4042\obj\Debug\NavigationPage.baml
+C:\Users\madcat\Downloads\CW_-_SZ4042-F\CW_-_SZ4042-F\CW - SZ4042\bin\Debug\CW - SZ4042.exe.config
+C:\Users\madcat\Downloads\CW_-_SZ4042-F\CW_-_SZ4042-F\CW - SZ4042\bin\Debug\CW - SZ4042.exe
+C:\Users\madcat\Downloads\CW_-_SZ4042-F\CW_-_SZ4042-F\CW - SZ4042\bin\Debug\CW - SZ4042.pdb
+C:\Users\madcat\Downloads\CW_-_SZ4042-F\CW_-_SZ4042-F\CW - SZ4042\obj\Debug\CW - SZ4042.csprojAssemblyReference.cache
+C:\Users\madcat\Downloads\CW_-_SZ4042-F\CW_-_SZ4042-F\CW - SZ4042\obj\Debug\Ablesatafel.g.cs
+C:\Users\madcat\Downloads\CW_-_SZ4042-F\CW_-_SZ4042-F\CW - SZ4042\obj\Debug\CryptoPanel.g.cs
+C:\Users\madcat\Downloads\CW_-_SZ4042-F\CW_-_SZ4042-F\CW - SZ4042\obj\Debug\AblInstructions.g.cs
+C:\Users\madcat\Downloads\CW_-_SZ4042-F\CW_-_SZ4042-F\CW - SZ4042\obj\Debug\MainWindow.g.cs
+C:\Users\madcat\Downloads\CW_-_SZ4042-F\CW_-_SZ4042-F\CW - SZ4042\obj\Debug\NavigationPage.g.cs
+C:\Users\madcat\Downloads\CW_-_SZ4042-F\CW_-_SZ4042-F\CW - SZ4042\obj\Debug\NavigationWindow.g.cs
+C:\Users\madcat\Downloads\CW_-_SZ4042-F\CW_-_SZ4042-F\CW - SZ4042\obj\Debug\App.g.cs
+C:\Users\madcat\Downloads\CW_-_SZ4042-F\CW_-_SZ4042-F\CW - SZ4042\obj\Debug\CW - SZ4042_MarkupCompile.cache
+C:\Users\madcat\Downloads\CW_-_SZ4042-F\CW_-_SZ4042-F\CW - SZ4042\obj\Debug\CW - SZ4042_MarkupCompile.lref
+C:\Users\madcat\Downloads\CW_-_SZ4042-F\CW_-_SZ4042-F\CW - SZ4042\obj\Debug\App.baml
+C:\Users\madcat\Downloads\CW_-_SZ4042-F\CW_-_SZ4042-F\CW - SZ4042\obj\Debug\Ablesatafel.baml
+C:\Users\madcat\Downloads\CW_-_SZ4042-F\CW_-_SZ4042-F\CW - SZ4042\obj\Debug\CryptoPanel.baml
+C:\Users\madcat\Downloads\CW_-_SZ4042-F\CW_-_SZ4042-F\CW - SZ4042\obj\Debug\AblInstructions.baml
+C:\Users\madcat\Downloads\CW_-_SZ4042-F\CW_-_SZ4042-F\CW - SZ4042\obj\Debug\MainWindow.baml
+C:\Users\madcat\Downloads\CW_-_SZ4042-F\CW_-_SZ4042-F\CW - SZ4042\obj\Debug\NavigationPage.baml
+C:\Users\madcat\Downloads\CW_-_SZ4042-F\CW_-_SZ4042-F\CW - SZ4042\obj\Debug\NavigationWindow.baml
+C:\Users\madcat\Downloads\CW_-_SZ4042-F\CW_-_SZ4042-F\CW - SZ4042\obj\Debug\CW - SZ4042.g.resources
+C:\Users\madcat\Downloads\CW_-_SZ4042-F\CW_-_SZ4042-F\CW - SZ4042\obj\Debug\CW___SZ4042.Properties.Resources.resources
+C:\Users\madcat\Downloads\CW_-_SZ4042-F\CW_-_SZ4042-F\CW - SZ4042\obj\Debug\CW - SZ4042.csproj.GenerateResource.cache
+C:\Users\madcat\Downloads\CW_-_SZ4042-F\CW_-_SZ4042-F\CW - SZ4042\obj\Debug\CW - SZ4042.csproj.CoreCompileInputs.cache
+C:\Users\madcat\Downloads\CW_-_SZ4042-F\CW_-_SZ4042-F\CW - SZ4042\obj\Debug\CW - SZ4042.exe
+C:\Users\madcat\Downloads\CW_-_SZ4042-F\CW_-_SZ4042-F\CW - SZ4042\obj\Debug\CW - SZ4042.pdb
+D:\UserData\Desktop\CW_-_SZ4042\CW - SZ4042\bin\Debug\CW - SZ4042.exe.config
+D:\UserData\Desktop\CW_-_SZ4042\CW - SZ4042\bin\Debug\CW - SZ4042.exe
+D:\UserData\Desktop\CW_-_SZ4042\CW - SZ4042\bin\Debug\CW - SZ4042.pdb
+D:\UserData\Desktop\CW_-_SZ4042\CW - SZ4042\obj\Debug\CW - SZ4042.csprojAssemblyReference.cache
+D:\UserData\Desktop\CW_-_SZ4042\CW - SZ4042\obj\Debug\Ablesatafel.g.cs
+D:\UserData\Desktop\CW_-_SZ4042\CW - SZ4042\obj\Debug\CryptoPanel.g.cs
+D:\UserData\Desktop\CW_-_SZ4042\CW - SZ4042\obj\Debug\AblInstructions.g.cs
+D:\UserData\Desktop\CW_-_SZ4042\CW - SZ4042\obj\Debug\MainWindow.g.cs
+D:\UserData\Desktop\CW_-_SZ4042\CW - SZ4042\obj\Debug\NavigationPage.g.cs
+D:\UserData\Desktop\CW_-_SZ4042\CW - SZ4042\obj\Debug\NavigationWindow.g.cs
+D:\UserData\Desktop\CW_-_SZ4042\CW - SZ4042\obj\Debug\App.g.cs
+D:\UserData\Desktop\CW_-_SZ4042\CW - SZ4042\obj\Debug\CW - SZ4042_MarkupCompile.cache
+D:\UserData\Desktop\CW_-_SZ4042\CW - SZ4042\obj\Debug\CW - SZ4042_MarkupCompile.lref
+D:\UserData\Desktop\CW_-_SZ4042\CW - SZ4042\obj\Debug\App.baml
+D:\UserData\Desktop\CW_-_SZ4042\CW - SZ4042\obj\Debug\Ablesatafel.baml
+D:\UserData\Desktop\CW_-_SZ4042\CW - SZ4042\obj\Debug\CryptoPanel.baml
+D:\UserData\Desktop\CW_-_SZ4042\CW - SZ4042\obj\Debug\AblInstructions.baml
+D:\UserData\Desktop\CW_-_SZ4042\CW - SZ4042\obj\Debug\MainWindow.baml
+D:\UserData\Desktop\CW_-_SZ4042\CW - SZ4042\obj\Debug\NavigationPage.baml
+D:\UserData\Desktop\CW_-_SZ4042\CW - SZ4042\obj\Debug\NavigationWindow.baml
+D:\UserData\Desktop\CW_-_SZ4042\CW - SZ4042\obj\Debug\CW - SZ4042.g.resources
+D:\UserData\Desktop\CW_-_SZ4042\CW - SZ4042\obj\Debug\CW___SZ4042.Properties.Resources.resources
+D:\UserData\Desktop\CW_-_SZ4042\CW - SZ4042\obj\Debug\CW - SZ4042.csproj.GenerateResource.cache
+D:\UserData\Desktop\CW_-_SZ4042\CW - SZ4042\obj\Debug\CW - SZ4042.csproj.CoreCompileInputs.cache
+D:\UserData\Desktop\CW_-_SZ4042\CW - SZ4042\obj\Debug\CW - SZ4042.exe
+D:\UserData\Desktop\CW_-_SZ4042\CW - SZ4042\obj\Debug\CW - SZ4042.pdb
+C:\Users\madcat\Downloads\111111\CW_-_SZ4042\CW - SZ4042\bin\Debug\CW - SZ4042.exe.config
+C:\Users\madcat\Downloads\111111\CW_-_SZ4042\CW - SZ4042\bin\Debug\CW - SZ4042.exe
+C:\Users\madcat\Downloads\111111\CW_-_SZ4042\CW - SZ4042\bin\Debug\CW - SZ4042.pdb
+C:\Users\madcat\Downloads\111111\CW_-_SZ4042\CW - SZ4042\obj\Debug\CW - SZ4042.csprojAssemblyReference.cache
+C:\Users\madcat\Downloads\111111\CW_-_SZ4042\CW - SZ4042\obj\Debug\Ablesatafel.g.cs
+C:\Users\madcat\Downloads\111111\CW_-_SZ4042\CW - SZ4042\obj\Debug\CryptoPanel.g.cs
+C:\Users\madcat\Downloads\111111\CW_-_SZ4042\CW - SZ4042\obj\Debug\AblInstructions.g.cs
+C:\Users\madcat\Downloads\111111\CW_-_SZ4042\CW - SZ4042\obj\Debug\MainWindow.g.cs
+C:\Users\madcat\Downloads\111111\CW_-_SZ4042\CW - SZ4042\obj\Debug\NavigationPage.g.cs
+C:\Users\madcat\Downloads\111111\CW_-_SZ4042\CW - SZ4042\obj\Debug\NavigationWindow.g.cs
+C:\Users\madcat\Downloads\111111\CW_-_SZ4042\CW - SZ4042\obj\Debug\App.g.cs
+C:\Users\madcat\Downloads\111111\CW_-_SZ4042\CW - SZ4042\obj\Debug\CW - SZ4042_MarkupCompile.cache
+C:\Users\madcat\Downloads\111111\CW_-_SZ4042\CW - SZ4042\obj\Debug\CW - SZ4042_MarkupCompile.lref
+C:\Users\madcat\Downloads\111111\CW_-_SZ4042\CW - SZ4042\obj\Debug\App.baml
+C:\Users\madcat\Downloads\111111\CW_-_SZ4042\CW - SZ4042\obj\Debug\Ablesatafel.baml
+C:\Users\madcat\Downloads\111111\CW_-_SZ4042\CW - SZ4042\obj\Debug\CryptoPanel.baml
+C:\Users\madcat\Downloads\111111\CW_-_SZ4042\CW - SZ4042\obj\Debug\AblInstructions.baml
+C:\Users\madcat\Downloads\111111\CW_-_SZ4042\CW - SZ4042\obj\Debug\MainWindow.baml
+C:\Users\madcat\Downloads\111111\CW_-_SZ4042\CW - SZ4042\obj\Debug\NavigationPage.baml
+C:\Users\madcat\Downloads\111111\CW_-_SZ4042\CW - SZ4042\obj\Debug\NavigationWindow.baml
+C:\Users\madcat\Downloads\111111\CW_-_SZ4042\CW - SZ4042\obj\Debug\CW - SZ4042.g.resources
+C:\Users\madcat\Downloads\111111\CW_-_SZ4042\CW - SZ4042\obj\Debug\CW___SZ4042.Properties.Resources.resources
+C:\Users\madcat\Downloads\111111\CW_-_SZ4042\CW - SZ4042\obj\Debug\CW - SZ4042.csproj.GenerateResource.cache
+C:\Users\madcat\Downloads\111111\CW_-_SZ4042\CW - SZ4042\obj\Debug\CW - SZ4042.csproj.CoreCompileInputs.cache
+C:\Users\madcat\Downloads\111111\CW_-_SZ4042\CW - SZ4042\obj\Debug\CW - SZ4042.exe
+C:\Users\madcat\Downloads\111111\CW_-_SZ4042\CW - SZ4042\obj\Debug\CW - SZ4042.pdb
+C:\Users\madcat\Desktop\111111\CW_-_SZ4042\CW - SZ4042\bin\Debug\CW - SZ4042.exe.config
+C:\Users\madcat\Desktop\111111\CW_-_SZ4042\CW - SZ4042\bin\Debug\CW - SZ4042.exe
+C:\Users\madcat\Desktop\111111\CW_-_SZ4042\CW - SZ4042\bin\Debug\CW - SZ4042.pdb
+C:\Users\madcat\Desktop\111111\CW_-_SZ4042\CW - SZ4042\obj\Debug\CW - SZ4042.csprojAssemblyReference.cache
+C:\Users\madcat\Desktop\111111\CW_-_SZ4042\CW - SZ4042\obj\Debug\Ablesatafel.g.cs
+C:\Users\madcat\Desktop\111111\CW_-_SZ4042\CW - SZ4042\obj\Debug\CryptoPanel.g.cs
+C:\Users\madcat\Desktop\111111\CW_-_SZ4042\CW - SZ4042\obj\Debug\AblInstructions.g.cs
+C:\Users\madcat\Desktop\111111\CW_-_SZ4042\CW - SZ4042\obj\Debug\MainWindow.g.cs
+C:\Users\madcat\Desktop\111111\CW_-_SZ4042\CW - SZ4042\obj\Debug\NavigationPage.g.cs
+C:\Users\madcat\Desktop\111111\CW_-_SZ4042\CW - SZ4042\obj\Debug\NavigationWindow.g.cs
+C:\Users\madcat\Desktop\111111\CW_-_SZ4042\CW - SZ4042\obj\Debug\App.g.cs
+C:\Users\madcat\Desktop\111111\CW_-_SZ4042\CW - SZ4042\obj\Debug\CW - SZ4042_MarkupCompile.cache
+C:\Users\madcat\Desktop\111111\CW_-_SZ4042\CW - SZ4042\obj\Debug\CW - SZ4042_MarkupCompile.lref
+C:\Users\madcat\Desktop\111111\CW_-_SZ4042\CW - SZ4042\obj\Debug\App.baml
+C:\Users\madcat\Desktop\111111\CW_-_SZ4042\CW - SZ4042\obj\Debug\Ablesatafel.baml
+C:\Users\madcat\Desktop\111111\CW_-_SZ4042\CW - SZ4042\obj\Debug\CryptoPanel.baml
+C:\Users\madcat\Desktop\111111\CW_-_SZ4042\CW - SZ4042\obj\Debug\AblInstructions.baml
+C:\Users\madcat\Desktop\111111\CW_-_SZ4042\CW - SZ4042\obj\Debug\MainWindow.baml
+C:\Users\madcat\Desktop\111111\CW_-_SZ4042\CW - SZ4042\obj\Debug\NavigationPage.baml
+C:\Users\madcat\Desktop\111111\CW_-_SZ4042\CW - SZ4042\obj\Debug\NavigationWindow.baml
+C:\Users\madcat\Desktop\111111\CW_-_SZ4042\CW - SZ4042\obj\Debug\CW - SZ4042.g.resources
+C:\Users\madcat\Desktop\111111\CW_-_SZ4042\CW - SZ4042\obj\Debug\CW___SZ4042.Properties.Resources.resources
+C:\Users\madcat\Desktop\111111\CW_-_SZ4042\CW - SZ4042\obj\Debug\CW - SZ4042.csproj.GenerateResource.cache
+C:\Users\madcat\Desktop\111111\CW_-_SZ4042\CW - SZ4042\obj\Debug\CW - SZ4042.csproj.CoreCompileInputs.cache
+C:\Users\madcat\Desktop\111111\CW_-_SZ4042\CW - SZ4042\obj\Debug\CW - SZ4042.exe
+C:\Users\madcat\Desktop\111111\CW_-_SZ4042\CW - SZ4042\obj\Debug\CW - SZ4042.pdb
+C:\Users\madcat\Desktop\111111\CW_-_SZ4042\CW - SZ4042\obj\Debug\Learning_part1.g.cs
+C:\Users\madcat\Desktop\111111\CW_-_SZ4042\CW - SZ4042\obj\Debug\Learning_part1.baml
+D:\UserData\Desktop\Obuchenie_chast_1\CW - SZ4042\bin\Debug\CW - SZ4042.exe.config
+D:\UserData\Desktop\Obuchenie_chast_1\CW - SZ4042\bin\Debug\CW - SZ4042.exe
+D:\UserData\Desktop\Obuchenie_chast_1\CW - SZ4042\bin\Debug\CW - SZ4042.pdb
+D:\UserData\Desktop\Obuchenie_chast_1\CW - SZ4042\obj\Debug\CW - SZ4042.csprojAssemblyReference.cache
+D:\UserData\Desktop\Obuchenie_chast_1\CW - SZ4042\obj\Debug\Ablesatafel.g.cs
+D:\UserData\Desktop\Obuchenie_chast_1\CW - SZ4042\obj\Debug\CryptoPanel.g.cs
+D:\UserData\Desktop\Obuchenie_chast_1\CW - SZ4042\obj\Debug\AblInstructions.g.cs
+D:\UserData\Desktop\Obuchenie_chast_1\CW - SZ4042\obj\Debug\Learning_part1.g.cs
+D:\UserData\Desktop\Obuchenie_chast_1\CW - SZ4042\obj\Debug\MainWindow.g.cs
+D:\UserData\Desktop\Obuchenie_chast_1\CW - SZ4042\obj\Debug\NavigationPage.g.cs
+D:\UserData\Desktop\Obuchenie_chast_1\CW - SZ4042\obj\Debug\NavigationWindow.g.cs
+D:\UserData\Desktop\Obuchenie_chast_1\CW - SZ4042\obj\Debug\App.g.cs
+D:\UserData\Desktop\Obuchenie_chast_1\CW - SZ4042\obj\Debug\CW - SZ4042_MarkupCompile.cache
+D:\UserData\Desktop\Obuchenie_chast_1\CW - SZ4042\obj\Debug\CW - SZ4042_MarkupCompile.lref
+D:\UserData\Desktop\Obuchenie_chast_1\CW - SZ4042\obj\Debug\App.baml
+D:\UserData\Desktop\Obuchenie_chast_1\CW - SZ4042\obj\Debug\Ablesatafel.baml
+D:\UserData\Desktop\Obuchenie_chast_1\CW - SZ4042\obj\Debug\CryptoPanel.baml
+D:\UserData\Desktop\Obuchenie_chast_1\CW - SZ4042\obj\Debug\AblInstructions.baml
+D:\UserData\Desktop\Obuchenie_chast_1\CW - SZ4042\obj\Debug\Learning_part1.baml
+D:\UserData\Desktop\Obuchenie_chast_1\CW - SZ4042\obj\Debug\MainWindow.baml
+D:\UserData\Desktop\Obuchenie_chast_1\CW - SZ4042\obj\Debug\NavigationPage.baml
+D:\UserData\Desktop\Obuchenie_chast_1\CW - SZ4042\obj\Debug\NavigationWindow.baml
+D:\UserData\Desktop\Obuchenie_chast_1\CW - SZ4042\obj\Debug\CW - SZ4042.g.resources
+D:\UserData\Desktop\Obuchenie_chast_1\CW - SZ4042\obj\Debug\CW___SZ4042.Properties.Resources.resources
+D:\UserData\Desktop\Obuchenie_chast_1\CW - SZ4042\obj\Debug\CW - SZ4042.csproj.GenerateResource.cache
+D:\UserData\Desktop\Obuchenie_chast_1\CW - SZ4042\obj\Debug\CW - SZ4042.csproj.CoreCompileInputs.cache
+D:\UserData\Desktop\Obuchenie_chast_1\CW - SZ4042\obj\Debug\CW - SZ4042.exe
+D:\UserData\Desktop\Obuchenie_chast_1\CW - SZ4042\obj\Debug\CW - SZ4042.pdb
+C:\Users\madcat\Downloads\Obuchenie_chast_1\Obuchenie_chast_1\CW - SZ4042\bin\Debug\CW - SZ4042.exe.config
+C:\Users\madcat\Downloads\Obuchenie_chast_1\Obuchenie_chast_1\CW - SZ4042\bin\Debug\CW - SZ4042.exe
+C:\Users\madcat\Downloads\Obuchenie_chast_1\Obuchenie_chast_1\CW - SZ4042\bin\Debug\CW - SZ4042.pdb
+C:\Users\madcat\Downloads\Obuchenie_chast_1\Obuchenie_chast_1\CW - SZ4042\obj\Debug\CW - SZ4042.csprojAssemblyReference.cache
+C:\Users\madcat\Downloads\Obuchenie_chast_1\Obuchenie_chast_1\CW - SZ4042\obj\Debug\Ablesatafel.g.cs
+C:\Users\madcat\Downloads\Obuchenie_chast_1\Obuchenie_chast_1\CW - SZ4042\obj\Debug\CryptoPanel.g.cs
+C:\Users\madcat\Downloads\Obuchenie_chast_1\Obuchenie_chast_1\CW - SZ4042\obj\Debug\AblInstructions.g.cs
+C:\Users\madcat\Downloads\Obuchenie_chast_1\Obuchenie_chast_1\CW - SZ4042\obj\Debug\MainWindow.g.cs
+C:\Users\madcat\Downloads\Obuchenie_chast_1\Obuchenie_chast_1\CW - SZ4042\obj\Debug\NavigationPage.g.cs
+C:\Users\madcat\Downloads\Obuchenie_chast_1\Obuchenie_chast_1\CW - SZ4042\obj\Debug\NavigationWindow.g.cs
+C:\Users\madcat\Downloads\Obuchenie_chast_1\Obuchenie_chast_1\CW - SZ4042\obj\Debug\App.g.cs
+C:\Users\madcat\Downloads\Obuchenie_chast_1\Obuchenie_chast_1\CW - SZ4042\obj\Debug\CW - SZ4042_MarkupCompile.cache
+C:\Users\madcat\Downloads\Obuchenie_chast_1\Obuchenie_chast_1\CW - SZ4042\obj\Debug\CW - SZ4042_MarkupCompile.lref
+C:\Users\madcat\Downloads\Obuchenie_chast_1\Obuchenie_chast_1\CW - SZ4042\obj\Debug\App.baml
+C:\Users\madcat\Downloads\Obuchenie_chast_1\Obuchenie_chast_1\CW - SZ4042\obj\Debug\Ablesatafel.baml
+C:\Users\madcat\Downloads\Obuchenie_chast_1\Obuchenie_chast_1\CW - SZ4042\obj\Debug\CryptoPanel.baml
+C:\Users\madcat\Downloads\Obuchenie_chast_1\Obuchenie_chast_1\CW - SZ4042\obj\Debug\AblInstructions.baml
+C:\Users\madcat\Downloads\Obuchenie_chast_1\Obuchenie_chast_1\CW - SZ4042\obj\Debug\MainWindow.baml
+C:\Users\madcat\Downloads\Obuchenie_chast_1\Obuchenie_chast_1\CW - SZ4042\obj\Debug\NavigationPage.baml
+C:\Users\madcat\Downloads\Obuchenie_chast_1\Obuchenie_chast_1\CW - SZ4042\obj\Debug\NavigationWindow.baml
+C:\Users\madcat\Downloads\Obuchenie_chast_1\Obuchenie_chast_1\CW - SZ4042\obj\Debug\CW - SZ4042.g.resources
+C:\Users\madcat\Downloads\Obuchenie_chast_1\Obuchenie_chast_1\CW - SZ4042\obj\Debug\CW___SZ4042.Properties.Resources.resources
+C:\Users\madcat\Downloads\Obuchenie_chast_1\Obuchenie_chast_1\CW - SZ4042\obj\Debug\CW - SZ4042.csproj.GenerateResource.cache
+C:\Users\madcat\Downloads\Obuchenie_chast_1\Obuchenie_chast_1\CW - SZ4042\obj\Debug\CW - SZ4042.csproj.CoreCompileInputs.cache
+C:\Users\madcat\Downloads\Obuchenie_chast_1\Obuchenie_chast_1\CW - SZ4042\obj\Debug\CW - SZ4042.exe
+C:\Users\madcat\Downloads\Obuchenie_chast_1\Obuchenie_chast_1\CW - SZ4042\obj\Debug\CW - SZ4042.pdb
+C:\Users\madcat\Downloads\Obuchenie_chast_1\Obuchenie_chast_1\CW - SZ4042\obj\Debug\Learning.g.cs
+C:\Users\madcat\Downloads\Obuchenie_chast_1\Obuchenie_chast_1\CW - SZ4042\obj\Debug\Learning.baml
+C:\Users\madcat\Downloads\Obuchenie_chast_1\Obuchenie_chast_1\CW - SZ4042\obj\Debug\History.g.cs
+C:\Users\madcat\Downloads\Obuchenie_chast_1\Obuchenie_chast_1\CW - SZ4042\obj\Debug\History.baml
+C:\Users\madcat\Downloads\Obuchenie_chast_1\Obuchenie_chast_1\CW - SZ4042\obj\Debug\PrincipleOperation.g.cs
+C:\Users\madcat\Downloads\Obuchenie_chast_1\Obuchenie_chast_1\CW - SZ4042\obj\Debug\PrincipleOperation.baml
+D:\UserData\Desktop\Gotovoe_obuchenie\CW - SZ4042\bin\Debug\CW - SZ4042.exe.config
+D:\UserData\Desktop\Gotovoe_obuchenie\CW - SZ4042\bin\Debug\CW - SZ4042.exe
+D:\UserData\Desktop\Gotovoe_obuchenie\CW - SZ4042\bin\Debug\CW - SZ4042.pdb
+D:\UserData\Desktop\Gotovoe_obuchenie\CW - SZ4042\obj\Debug\CW - SZ4042.csprojAssemblyReference.cache
+D:\UserData\Desktop\Gotovoe_obuchenie\CW - SZ4042\obj\Debug\Ablesatafel.g.cs
+D:\UserData\Desktop\Gotovoe_obuchenie\CW - SZ4042\obj\Debug\CryptoPanel.g.cs
+D:\UserData\Desktop\Gotovoe_obuchenie\CW - SZ4042\obj\Debug\AblInstructions.g.cs
+D:\UserData\Desktop\Gotovoe_obuchenie\CW - SZ4042\obj\Debug\History.g.cs
+D:\UserData\Desktop\Gotovoe_obuchenie\CW - SZ4042\obj\Debug\Learning.g.cs
+D:\UserData\Desktop\Gotovoe_obuchenie\CW - SZ4042\obj\Debug\MainWindow.g.cs
+D:\UserData\Desktop\Gotovoe_obuchenie\CW - SZ4042\obj\Debug\NavigationPage.g.cs
+D:\UserData\Desktop\Gotovoe_obuchenie\CW - SZ4042\obj\Debug\NavigationWindow.g.cs
+D:\UserData\Desktop\Gotovoe_obuchenie\CW - SZ4042\obj\Debug\PrincipleOperation.g.cs
+D:\UserData\Desktop\Gotovoe_obuchenie\CW - SZ4042\obj\Debug\App.g.cs
+D:\UserData\Desktop\Gotovoe_obuchenie\CW - SZ4042\obj\Debug\CW - SZ4042_MarkupCompile.cache
+D:\UserData\Desktop\Gotovoe_obuchenie\CW - SZ4042\obj\Debug\CW - SZ4042_MarkupCompile.lref
+D:\UserData\Desktop\Gotovoe_obuchenie\CW - SZ4042\obj\Debug\App.baml
+D:\UserData\Desktop\Gotovoe_obuchenie\CW - SZ4042\obj\Debug\Ablesatafel.baml
+D:\UserData\Desktop\Gotovoe_obuchenie\CW - SZ4042\obj\Debug\CryptoPanel.baml
+D:\UserData\Desktop\Gotovoe_obuchenie\CW - SZ4042\obj\Debug\AblInstructions.baml
+D:\UserData\Desktop\Gotovoe_obuchenie\CW - SZ4042\obj\Debug\History.baml
+D:\UserData\Desktop\Gotovoe_obuchenie\CW - SZ4042\obj\Debug\Learning.baml
+D:\UserData\Desktop\Gotovoe_obuchenie\CW - SZ4042\obj\Debug\MainWindow.baml
+D:\UserData\Desktop\Gotovoe_obuchenie\CW - SZ4042\obj\Debug\NavigationPage.baml
+D:\UserData\Desktop\Gotovoe_obuchenie\CW - SZ4042\obj\Debug\NavigationWindow.baml
+D:\UserData\Desktop\Gotovoe_obuchenie\CW - SZ4042\obj\Debug\PrincipleOperation.baml
+D:\UserData\Desktop\Gotovoe_obuchenie\CW - SZ4042\obj\Debug\CW - SZ4042.g.resources
+D:\UserData\Desktop\Gotovoe_obuchenie\CW - SZ4042\obj\Debug\CW___SZ4042.Properties.Resources.resources
+D:\UserData\Desktop\Gotovoe_obuchenie\CW - SZ4042\obj\Debug\CW - SZ4042.csproj.GenerateResource.cache
+D:\UserData\Desktop\Gotovoe_obuchenie\CW - SZ4042\obj\Debug\CW - SZ4042.csproj.CoreCompileInputs.cache
+D:\UserData\Desktop\Gotovoe_obuchenie\CW - SZ4042\obj\Debug\CW - SZ4042.exe
+D:\UserData\Desktop\Gotovoe_obuchenie\CW - SZ4042\obj\Debug\CW - SZ4042.pdb
+C:\Users\madcat\Downloads\Gotovoe_obuchenie\Gotovoe_obuchenie\CW - SZ4042\bin\Debug\CW - SZ4042.exe.config
+C:\Users\madcat\Downloads\Gotovoe_obuchenie\Gotovoe_obuchenie\CW - SZ4042\bin\Debug\CW - SZ4042.exe
+C:\Users\madcat\Downloads\Gotovoe_obuchenie\Gotovoe_obuchenie\CW - SZ4042\bin\Debug\CW - SZ4042.pdb
+C:\Users\madcat\Downloads\Gotovoe_obuchenie\Gotovoe_obuchenie\CW - SZ4042\obj\Debug\CW - SZ4042.csprojAssemblyReference.cache
+C:\Users\madcat\Downloads\Gotovoe_obuchenie\Gotovoe_obuchenie\CW - SZ4042\obj\Debug\Ablesatafel.g.cs
+C:\Users\madcat\Downloads\Gotovoe_obuchenie\Gotovoe_obuchenie\CW - SZ4042\obj\Debug\CryptoPanel.g.cs
+C:\Users\madcat\Downloads\Gotovoe_obuchenie\Gotovoe_obuchenie\CW - SZ4042\obj\Debug\AblInstructions.g.cs
+C:\Users\madcat\Downloads\Gotovoe_obuchenie\Gotovoe_obuchenie\CW - SZ4042\obj\Debug\History.g.cs
+C:\Users\madcat\Downloads\Gotovoe_obuchenie\Gotovoe_obuchenie\CW - SZ4042\obj\Debug\Learning.g.cs
+C:\Users\madcat\Downloads\Gotovoe_obuchenie\Gotovoe_obuchenie\CW - SZ4042\obj\Debug\MainWindow.g.cs
+C:\Users\madcat\Downloads\Gotovoe_obuchenie\Gotovoe_obuchenie\CW - SZ4042\obj\Debug\NavigationPage.g.cs
+C:\Users\madcat\Downloads\Gotovoe_obuchenie\Gotovoe_obuchenie\CW - SZ4042\obj\Debug\NavigationWindow.g.cs
+C:\Users\madcat\Downloads\Gotovoe_obuchenie\Gotovoe_obuchenie\CW - SZ4042\obj\Debug\PrincipleOperation.g.cs
+C:\Users\madcat\Downloads\Gotovoe_obuchenie\Gotovoe_obuchenie\CW - SZ4042\obj\Debug\App.g.cs
+C:\Users\madcat\Downloads\Gotovoe_obuchenie\Gotovoe_obuchenie\CW - SZ4042\obj\Debug\CW - SZ4042_MarkupCompile.cache
+C:\Users\madcat\Downloads\Gotovoe_obuchenie\Gotovoe_obuchenie\CW - SZ4042\obj\Debug\CW - SZ4042_MarkupCompile.lref
+C:\Users\madcat\Downloads\Gotovoe_obuchenie\Gotovoe_obuchenie\CW - SZ4042\obj\Debug\App.baml
+C:\Users\madcat\Downloads\Gotovoe_obuchenie\Gotovoe_obuchenie\CW - SZ4042\obj\Debug\Ablesatafel.baml
+C:\Users\madcat\Downloads\Gotovoe_obuchenie\Gotovoe_obuchenie\CW - SZ4042\obj\Debug\CryptoPanel.baml
+C:\Users\madcat\Downloads\Gotovoe_obuchenie\Gotovoe_obuchenie\CW - SZ4042\obj\Debug\AblInstructions.baml
+C:\Users\madcat\Downloads\Gotovoe_obuchenie\Gotovoe_obuchenie\CW - SZ4042\obj\Debug\History.baml
+C:\Users\madcat\Downloads\Gotovoe_obuchenie\Gotovoe_obuchenie\CW - SZ4042\obj\Debug\Learning.baml
+C:\Users\madcat\Downloads\Gotovoe_obuchenie\Gotovoe_obuchenie\CW - SZ4042\obj\Debug\MainWindow.baml
+C:\Users\madcat\Downloads\Gotovoe_obuchenie\Gotovoe_obuchenie\CW - SZ4042\obj\Debug\NavigationPage.baml
+C:\Users\madcat\Downloads\Gotovoe_obuchenie\Gotovoe_obuchenie\CW - SZ4042\obj\Debug\NavigationWindow.baml
+C:\Users\madcat\Downloads\Gotovoe_obuchenie\Gotovoe_obuchenie\CW - SZ4042\obj\Debug\PrincipleOperation.baml
+C:\Users\madcat\Downloads\Gotovoe_obuchenie\Gotovoe_obuchenie\CW - SZ4042\obj\Debug\CW - SZ4042.g.resources
+C:\Users\madcat\Downloads\Gotovoe_obuchenie\Gotovoe_obuchenie\CW - SZ4042\obj\Debug\CW___SZ4042.Properties.Resources.resources
+C:\Users\madcat\Downloads\Gotovoe_obuchenie\Gotovoe_obuchenie\CW - SZ4042\obj\Debug\CW - SZ4042.csproj.GenerateResource.cache
+C:\Users\madcat\Downloads\Gotovoe_obuchenie\Gotovoe_obuchenie\CW - SZ4042\obj\Debug\CW - SZ4042.csproj.CoreCompileInputs.cache
+C:\Users\madcat\Downloads\Gotovoe_obuchenie\Gotovoe_obuchenie\CW - SZ4042\obj\Debug\CW - SZ4042.exe
+C:\Users\madcat\Downloads\Gotovoe_obuchenie\Gotovoe_obuchenie\CW - SZ4042\obj\Debug\CW - SZ4042.pdb
+D:\UserData\Desktop\Vrode_kak_gotova_ostalos_text_zabulbenit\CW - SZ4042\bin\Debug\CW - SZ4042.exe.config
+D:\UserData\Desktop\Vrode_kak_gotova_ostalos_text_zabulbenit\CW - SZ4042\bin\Debug\CW - SZ4042.exe
+D:\UserData\Desktop\Vrode_kak_gotova_ostalos_text_zabulbenit\CW - SZ4042\bin\Debug\CW - SZ4042.pdb
+D:\UserData\Desktop\Vrode_kak_gotova_ostalos_text_zabulbenit\CW - SZ4042\obj\Debug\CW - SZ4042.csprojAssemblyReference.cache
+D:\UserData\Desktop\Vrode_kak_gotova_ostalos_text_zabulbenit\CW - SZ4042\obj\Debug\Ablesatafel.g.cs
+D:\UserData\Desktop\Vrode_kak_gotova_ostalos_text_zabulbenit\CW - SZ4042\obj\Debug\CryptoPanel.g.cs
+D:\UserData\Desktop\Vrode_kak_gotova_ostalos_text_zabulbenit\CW - SZ4042\obj\Debug\AblInstructions.g.cs
+D:\UserData\Desktop\Vrode_kak_gotova_ostalos_text_zabulbenit\CW - SZ4042\obj\Debug\History.g.cs
+D:\UserData\Desktop\Vrode_kak_gotova_ostalos_text_zabulbenit\CW - SZ4042\obj\Debug\Learning.g.cs
+D:\UserData\Desktop\Vrode_kak_gotova_ostalos_text_zabulbenit\CW - SZ4042\obj\Debug\MainWindow.g.cs
+D:\UserData\Desktop\Vrode_kak_gotova_ostalos_text_zabulbenit\CW - SZ4042\obj\Debug\NavigationPage.g.cs
+D:\UserData\Desktop\Vrode_kak_gotova_ostalos_text_zabulbenit\CW - SZ4042\obj\Debug\NavigationWindow.g.cs
+D:\UserData\Desktop\Vrode_kak_gotova_ostalos_text_zabulbenit\CW - SZ4042\obj\Debug\PrincipleOperation.g.cs
+D:\UserData\Desktop\Vrode_kak_gotova_ostalos_text_zabulbenit\CW - SZ4042\obj\Debug\App.g.cs
+D:\UserData\Desktop\Vrode_kak_gotova_ostalos_text_zabulbenit\CW - SZ4042\obj\Debug\CW - SZ4042_MarkupCompile.cache
+D:\UserData\Desktop\Vrode_kak_gotova_ostalos_text_zabulbenit\CW - SZ4042\obj\Debug\CW - SZ4042_MarkupCompile.lref
+D:\UserData\Desktop\Vrode_kak_gotova_ostalos_text_zabulbenit\CW - SZ4042\obj\Debug\App.baml
+D:\UserData\Desktop\Vrode_kak_gotova_ostalos_text_zabulbenit\CW - SZ4042\obj\Debug\Ablesatafel.baml
+D:\UserData\Desktop\Vrode_kak_gotova_ostalos_text_zabulbenit\CW - SZ4042\obj\Debug\CryptoPanel.baml
+D:\UserData\Desktop\Vrode_kak_gotova_ostalos_text_zabulbenit\CW - SZ4042\obj\Debug\AblInstructions.baml
+D:\UserData\Desktop\Vrode_kak_gotova_ostalos_text_zabulbenit\CW - SZ4042\obj\Debug\History.baml
+D:\UserData\Desktop\Vrode_kak_gotova_ostalos_text_zabulbenit\CW - SZ4042\obj\Debug\Learning.baml
+D:\UserData\Desktop\Vrode_kak_gotova_ostalos_text_zabulbenit\CW - SZ4042\obj\Debug\MainWindow.baml
+D:\UserData\Desktop\Vrode_kak_gotova_ostalos_text_zabulbenit\CW - SZ4042\obj\Debug\NavigationPage.baml
+D:\UserData\Desktop\Vrode_kak_gotova_ostalos_text_zabulbenit\CW - SZ4042\obj\Debug\NavigationWindow.baml
+D:\UserData\Desktop\Vrode_kak_gotova_ostalos_text_zabulbenit\CW - SZ4042\obj\Debug\PrincipleOperation.baml
+D:\UserData\Desktop\Vrode_kak_gotova_ostalos_text_zabulbenit\CW - SZ4042\obj\Debug\CW - SZ4042.g.resources
+D:\UserData\Desktop\Vrode_kak_gotova_ostalos_text_zabulbenit\CW - SZ4042\obj\Debug\CW___SZ4042.Properties.Resources.resources
+D:\UserData\Desktop\Vrode_kak_gotova_ostalos_text_zabulbenit\CW - SZ4042\obj\Debug\CW - SZ4042.csproj.GenerateResource.cache
+D:\UserData\Desktop\Vrode_kak_gotova_ostalos_text_zabulbenit\CW - SZ4042\obj\Debug\CW - SZ4042.csproj.CoreCompileInputs.cache
+D:\UserData\Desktop\Vrode_kak_gotova_ostalos_text_zabulbenit\CW - SZ4042\obj\Debug\CW - SZ4042.exe
+D:\UserData\Desktop\Vrode_kak_gotova_ostalos_text_zabulbenit\CW - SZ4042\obj\Debug\CW - SZ4042.pdb
+C:\Users\Вадим\source\repos\CW - SZ4042\obj\Debug\AblInstructions.g.cs
+C:\Users\Вадим\source\repos\CW - SZ4042\obj\Debug\History.g.cs
+C:\Users\Вадим\source\repos\CW - SZ4042\obj\Debug\Learning.g.cs
+C:\Users\Вадим\source\repos\CW - SZ4042\obj\Debug\NavigationPage.g.cs
+C:\Users\Вадим\source\repos\CW - SZ4042\obj\Debug\NavigationWindow.g.cs
+C:\Users\Вадим\source\repos\CW - SZ4042\obj\Debug\PrincipleOperation.g.cs
+C:\Users\Вадим\source\repos\CW - SZ4042\obj\Debug\AblInstructions.baml
+C:\Users\Вадим\source\repos\CW - SZ4042\obj\Debug\History.baml
+C:\Users\Вадим\source\repos\CW - SZ4042\obj\Debug\Learning.baml
+C:\Users\Вадим\source\repos\CW - SZ4042\obj\Debug\NavigationPage.baml
+C:\Users\Вадим\source\repos\CW - SZ4042\obj\Debug\NavigationWindow.baml
+C:\Users\Вадим\source\repos\CW - SZ4042\obj\Debug\PrincipleOperation.baml
+C:\Users\madcat\Downloads\Lorenz_PreFinal_Version\CW - SZ4042\bin\Debug\CW - SZ4042.exe.config
+C:\Users\madcat\Downloads\Lorenz_PreFinal_Version\CW - SZ4042\bin\Debug\CW - SZ4042.exe
+C:\Users\madcat\Downloads\Lorenz_PreFinal_Version\CW - SZ4042\bin\Debug\CW - SZ4042.pdb
+C:\Users\madcat\Downloads\Lorenz_PreFinal_Version\CW - SZ4042\obj\Debug\CW - SZ4042.csprojAssemblyReference.cache
+C:\Users\madcat\Downloads\Lorenz_PreFinal_Version\CW - SZ4042\obj\Debug\Ablesatafel.g.cs
+C:\Users\madcat\Downloads\Lorenz_PreFinal_Version\CW - SZ4042\obj\Debug\CryptoPanel.g.cs
+C:\Users\madcat\Downloads\Lorenz_PreFinal_Version\CW - SZ4042\obj\Debug\AblInstructions.g.cs
+C:\Users\madcat\Downloads\Lorenz_PreFinal_Version\CW - SZ4042\obj\Debug\History.g.cs
+C:\Users\madcat\Downloads\Lorenz_PreFinal_Version\CW - SZ4042\obj\Debug\Learning.g.cs
+C:\Users\madcat\Downloads\Lorenz_PreFinal_Version\CW - SZ4042\obj\Debug\MainWindow.g.cs
+C:\Users\madcat\Downloads\Lorenz_PreFinal_Version\CW - SZ4042\obj\Debug\NavigationPage.g.cs
+C:\Users\madcat\Downloads\Lorenz_PreFinal_Version\CW - SZ4042\obj\Debug\NavigationWindow.g.cs
+C:\Users\madcat\Downloads\Lorenz_PreFinal_Version\CW - SZ4042\obj\Debug\PrincipleOperation.g.cs
+C:\Users\madcat\Downloads\Lorenz_PreFinal_Version\CW - SZ4042\obj\Debug\App.g.cs
+C:\Users\madcat\Downloads\Lorenz_PreFinal_Version\CW - SZ4042\obj\Debug\CW - SZ4042_MarkupCompile.cache
+C:\Users\madcat\Downloads\Lorenz_PreFinal_Version\CW - SZ4042\obj\Debug\CW - SZ4042_MarkupCompile.lref
+C:\Users\madcat\Downloads\Lorenz_PreFinal_Version\CW - SZ4042\obj\Debug\App.baml
+C:\Users\madcat\Downloads\Lorenz_PreFinal_Version\CW - SZ4042\obj\Debug\Ablesatafel.baml
+C:\Users\madcat\Downloads\Lorenz_PreFinal_Version\CW - SZ4042\obj\Debug\CryptoPanel.baml
+C:\Users\madcat\Downloads\Lorenz_PreFinal_Version\CW - SZ4042\obj\Debug\AblInstructions.baml
+C:\Users\madcat\Downloads\Lorenz_PreFinal_Version\CW - SZ4042\obj\Debug\History.baml
+C:\Users\madcat\Downloads\Lorenz_PreFinal_Version\CW - SZ4042\obj\Debug\Learning.baml
+C:\Users\madcat\Downloads\Lorenz_PreFinal_Version\CW - SZ4042\obj\Debug\MainWindow.baml
+C:\Users\madcat\Downloads\Lorenz_PreFinal_Version\CW - SZ4042\obj\Debug\NavigationPage.baml
+C:\Users\madcat\Downloads\Lorenz_PreFinal_Version\CW - SZ4042\obj\Debug\NavigationWindow.baml
+C:\Users\madcat\Downloads\Lorenz_PreFinal_Version\CW - SZ4042\obj\Debug\PrincipleOperation.baml
+C:\Users\madcat\Downloads\Lorenz_PreFinal_Version\CW - SZ4042\obj\Debug\CW - SZ4042.g.resources
+C:\Users\madcat\Downloads\Lorenz_PreFinal_Version\CW - SZ4042\obj\Debug\CW___SZ4042.Properties.Resources.resources
+C:\Users\madcat\Downloads\Lorenz_PreFinal_Version\CW - SZ4042\obj\Debug\CW - SZ4042.csproj.GenerateResource.cache
+C:\Users\madcat\Downloads\Lorenz_PreFinal_Version\CW - SZ4042\obj\Debug\CW - SZ4042.csproj.CoreCompileInputs.cache
+C:\Users\madcat\Downloads\Lorenz_PreFinal_Version\CW - SZ4042\obj\Debug\CW - SZ4042.exe
+C:\Users\madcat\Downloads\Lorenz_PreFinal_Version\CW - SZ4042\obj\Debug\CW - SZ4042.pdb
+D:\UserData\Desktop\CW-Lorenz SZ4042\CW - SZ4042\bin\Debug\CW - SZ4042.exe.config
+D:\UserData\Desktop\CW-Lorenz SZ4042\CW - SZ4042\bin\Debug\CW - SZ4042.exe
+D:\UserData\Desktop\CW-Lorenz SZ4042\CW - SZ4042\bin\Debug\CW - SZ4042.pdb
+D:\UserData\Desktop\CW-Lorenz SZ4042\CW - SZ4042\obj\Debug\CW - SZ4042.csprojAssemblyReference.cache
+D:\UserData\Desktop\CW-Lorenz SZ4042\CW - SZ4042\obj\Debug\Ablesatafel.g.cs
+D:\UserData\Desktop\CW-Lorenz SZ4042\CW - SZ4042\obj\Debug\CryptoPanel.g.cs
+D:\UserData\Desktop\CW-Lorenz SZ4042\CW - SZ4042\obj\Debug\AblInstructions.g.cs
+D:\UserData\Desktop\CW-Lorenz SZ4042\CW - SZ4042\obj\Debug\History.g.cs
+D:\UserData\Desktop\CW-Lorenz SZ4042\CW - SZ4042\obj\Debug\Learning.g.cs
+D:\UserData\Desktop\CW-Lorenz SZ4042\CW - SZ4042\obj\Debug\MainWindow.g.cs
+D:\UserData\Desktop\CW-Lorenz SZ4042\CW - SZ4042\obj\Debug\NavigationPage.g.cs
+D:\UserData\Desktop\CW-Lorenz SZ4042\CW - SZ4042\obj\Debug\NavigationWindow.g.cs
+D:\UserData\Desktop\CW-Lorenz SZ4042\CW - SZ4042\obj\Debug\PrincipleOperation.g.cs
+D:\UserData\Desktop\CW-Lorenz SZ4042\CW - SZ4042\obj\Debug\App.g.cs
+D:\UserData\Desktop\CW-Lorenz SZ4042\CW - SZ4042\obj\Debug\CW - SZ4042_MarkupCompile.cache
+D:\UserData\Desktop\CW-Lorenz SZ4042\CW - SZ4042\obj\Debug\CW - SZ4042_MarkupCompile.lref
+D:\UserData\Desktop\CW-Lorenz SZ4042\CW - SZ4042\obj\Debug\App.baml
+D:\UserData\Desktop\CW-Lorenz SZ4042\CW - SZ4042\obj\Debug\Ablesatafel.baml
+D:\UserData\Desktop\CW-Lorenz SZ4042\CW - SZ4042\obj\Debug\CryptoPanel.baml
+D:\UserData\Desktop\CW-Lorenz SZ4042\CW - SZ4042\obj\Debug\AblInstructions.baml
+D:\UserData\Desktop\CW-Lorenz SZ4042\CW - SZ4042\obj\Debug\History.baml
+D:\UserData\Desktop\CW-Lorenz SZ4042\CW - SZ4042\obj\Debug\Learning.baml
+D:\UserData\Desktop\CW-Lorenz SZ4042\CW - SZ4042\obj\Debug\MainWindow.baml
+D:\UserData\Desktop\CW-Lorenz SZ4042\CW - SZ4042\obj\Debug\NavigationPage.baml
+D:\UserData\Desktop\CW-Lorenz SZ4042\CW - SZ4042\obj\Debug\NavigationWindow.baml
+D:\UserData\Desktop\CW-Lorenz SZ4042\CW - SZ4042\obj\Debug\PrincipleOperation.baml
+D:\UserData\Desktop\CW-Lorenz SZ4042\CW - SZ4042\obj\Debug\CW - SZ4042.g.resources
+D:\UserData\Desktop\CW-Lorenz SZ4042\CW - SZ4042\obj\Debug\CW___SZ4042.Properties.Resources.resources
+D:\UserData\Desktop\CW-Lorenz SZ4042\CW - SZ4042\obj\Debug\CW - SZ4042.csproj.GenerateResource.cache
+D:\UserData\Desktop\CW-Lorenz SZ4042\CW - SZ4042\obj\Debug\CW - SZ4042.csproj.CoreCompileInputs.cache
+D:\UserData\Desktop\CW-Lorenz SZ4042\CW - SZ4042\obj\Debug\CW - SZ4042.exe
+D:\UserData\Desktop\CW-Lorenz SZ4042\CW - SZ4042\obj\Debug\CW - SZ4042.pdb
+D:\Курсачи\Lorenz\CW - SZ4042\bin\Debug\CW - SZ4042.exe.config
+D:\Курсачи\Lorenz\CW - SZ4042\bin\Debug\CW - SZ4042.exe
+D:\Курсачи\Lorenz\CW - SZ4042\bin\Debug\CW - SZ4042.pdb
+D:\Курсачи\Lorenz\CW - SZ4042\obj\Debug\CW - SZ4042.csprojAssemblyReference.cache
+D:\Курсачи\Lorenz\CW - SZ4042\obj\Debug\Ablesatafel.g.cs
+D:\Курсачи\Lorenz\CW - SZ4042\obj\Debug\CryptoPanel.g.cs
+D:\Курсачи\Lorenz\CW - SZ4042\obj\Debug\AblInstructions.g.cs
+D:\Курсачи\Lorenz\CW - SZ4042\obj\Debug\History.g.cs
+D:\Курсачи\Lorenz\CW - SZ4042\obj\Debug\Learning.g.cs
+D:\Курсачи\Lorenz\CW - SZ4042\obj\Debug\MainWindow.g.cs
+D:\Курсачи\Lorenz\CW - SZ4042\obj\Debug\NavigationPage.g.cs
+D:\Курсачи\Lorenz\CW - SZ4042\obj\Debug\NavigationWindow.g.cs
+D:\Курсачи\Lorenz\CW - SZ4042\obj\Debug\PrincipleOperation.g.cs
+D:\Курсачи\Lorenz\CW - SZ4042\obj\Debug\App.g.cs
+D:\Курсачи\Lorenz\CW - SZ4042\obj\Debug\CW - SZ4042_MarkupCompile.cache
+D:\Курсачи\Lorenz\CW - SZ4042\obj\Debug\CW - SZ4042_MarkupCompile.lref
+D:\Курсачи\Lorenz\CW - SZ4042\obj\Debug\App.baml
+D:\Курсачи\Lorenz\CW - SZ4042\obj\Debug\Ablesatafel.baml
+D:\Курсачи\Lorenz\CW - SZ4042\obj\Debug\CryptoPanel.baml
+D:\Курсачи\Lorenz\CW - SZ4042\obj\Debug\AblInstructions.baml
+D:\Курсачи\Lorenz\CW - SZ4042\obj\Debug\History.baml
+D:\Курсачи\Lorenz\CW - SZ4042\obj\Debug\Learning.baml
+D:\Курсачи\Lorenz\CW - SZ4042\obj\Debug\MainWindow.baml
+D:\Курсачи\Lorenz\CW - SZ4042\obj\Debug\NavigationPage.baml
+D:\Курсачи\Lorenz\CW - SZ4042\obj\Debug\NavigationWindow.baml
+D:\Курсачи\Lorenz\CW - SZ4042\obj\Debug\PrincipleOperation.baml
+D:\Курсачи\Lorenz\CW - SZ4042\obj\Debug\CW - SZ4042.g.resources
+D:\Курсачи\Lorenz\CW - SZ4042\obj\Debug\CW___SZ4042.Properties.Resources.resources
+D:\Курсачи\Lorenz\CW - SZ4042\obj\Debug\CW - SZ4042.csproj.GenerateResource.cache
+D:\Курсачи\Lorenz\CW - SZ4042\obj\Debug\CW - SZ4042.csproj.CoreCompileInputs.cache
+D:\Курсачи\Lorenz\CW - SZ4042\obj\Debug\CW - SZ4042.exe
+D:\Курсачи\Lorenz\CW - SZ4042\obj\Debug\CW - SZ4042.pdb
+C:\Users\Static Destructor\Documents\GitHub\Lorenz_Machine\bin\Debug\CW - SZ4042.exe.config
+C:\Users\Static Destructor\Documents\GitHub\Lorenz_Machine\bin\Debug\CW - SZ4042.exe
+C:\Users\Static Destructor\Documents\GitHub\Lorenz_Machine\bin\Debug\CW - SZ4042.pdb
+C:\Users\Static Destructor\Documents\GitHub\Lorenz_Machine\obj\Debug\CW - SZ4042.csprojAssemblyReference.cache
+C:\Users\Static Destructor\Documents\GitHub\Lorenz_Machine\obj\Debug\Ablesatafel.g.cs
+C:\Users\Static Destructor\Documents\GitHub\Lorenz_Machine\obj\Debug\CryptoPanel.g.cs
+C:\Users\Static Destructor\Documents\GitHub\Lorenz_Machine\obj\Debug\AblInstructions.g.cs
+C:\Users\Static Destructor\Documents\GitHub\Lorenz_Machine\obj\Debug\History.g.cs
+C:\Users\Static Destructor\Documents\GitHub\Lorenz_Machine\obj\Debug\Learning.g.cs
+C:\Users\Static Destructor\Documents\GitHub\Lorenz_Machine\obj\Debug\MainWindow.g.cs
+C:\Users\Static Destructor\Documents\GitHub\Lorenz_Machine\obj\Debug\NavigationPage.g.cs
+C:\Users\Static Destructor\Documents\GitHub\Lorenz_Machine\obj\Debug\NavigationWindow.g.cs
+C:\Users\Static Destructor\Documents\GitHub\Lorenz_Machine\obj\Debug\PrincipleOperation.g.cs
+C:\Users\Static Destructor\Documents\GitHub\Lorenz_Machine\obj\Debug\App.g.cs
+C:\Users\Static Destructor\Documents\GitHub\Lorenz_Machine\obj\Debug\CW - SZ4042_MarkupCompile.cache
+C:\Users\Static Destructor\Documents\GitHub\Lorenz_Machine\obj\Debug\CW - SZ4042_MarkupCompile.lref
+C:\Users\Static Destructor\Documents\GitHub\Lorenz_Machine\obj\Debug\App.baml
+C:\Users\Static Destructor\Documents\GitHub\Lorenz_Machine\obj\Debug\Ablesatafel.baml
+C:\Users\Static Destructor\Documents\GitHub\Lorenz_Machine\obj\Debug\CryptoPanel.baml
+C:\Users\Static Destructor\Documents\GitHub\Lorenz_Machine\obj\Debug\AblInstructions.baml
+C:\Users\Static Destructor\Documents\GitHub\Lorenz_Machine\obj\Debug\History.baml
+C:\Users\Static Destructor\Documents\GitHub\Lorenz_Machine\obj\Debug\Learning.baml
+C:\Users\Static Destructor\Documents\GitHub\Lorenz_Machine\obj\Debug\MainWindow.baml
+C:\Users\Static Destructor\Documents\GitHub\Lorenz_Machine\obj\Debug\NavigationPage.baml
+C:\Users\Static Destructor\Documents\GitHub\Lorenz_Machine\obj\Debug\NavigationWindow.baml
+C:\Users\Static Destructor\Documents\GitHub\Lorenz_Machine\obj\Debug\PrincipleOperation.baml
+C:\Users\Static Destructor\Documents\GitHub\Lorenz_Machine\obj\Debug\CW - SZ4042.g.resources
+C:\Users\Static Destructor\Documents\GitHub\Lorenz_Machine\obj\Debug\CW___SZ4042.Properties.Resources.resources
+C:\Users\Static Destructor\Documents\GitHub\Lorenz_Machine\obj\Debug\CW - SZ4042.csproj.GenerateResource.cache
+C:\Users\Static Destructor\Documents\GitHub\Lorenz_Machine\obj\Debug\CW - SZ4042.csproj.CoreCompileInputs.cache
+C:\Users\Static Destructor\Documents\GitHub\Lorenz_Machine\obj\Debug\CW - SZ4042.exe
+C:\Users\Static Destructor\Documents\GitHub\Lorenz_Machine\obj\Debug\CW - SZ4042.pdb

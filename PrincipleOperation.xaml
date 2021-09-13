@@ -1,0 +1,157 @@
+﻿<Page x:Class="CW___SZ4042.PrincipleOperation"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:CW___SZ4042"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="PrincipleOperation">
+    <Page.Resources>
+        <!--Scrollbar-->
+        <Style x:Key="ScrollBarLineButtonStyle" TargetType="{x:Type RepeatButton}">
+            <Setter Property="Focusable" Value="False"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type RepeatButton}">
+                        <Canvas Height="18">
+                            <Polygon Fill="LightBlue" Points="3,15 15,15 9,3"></Polygon>
+                        </Canvas>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style x:Key="ScrollBarLineButtonBottomStyle" TargetType="{x:Type RepeatButton}">
+            <Setter Property="Focusable" Value="False"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type RepeatButton}">
+                        <Canvas Height="18">
+                            <Polygon Fill="LightBlue" Points="3,3 9,15 15,3"></Polygon>
+                        </Canvas>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style x:Key="ScrollBarPageButtonStyle" TargetType="{x:Type RepeatButton}">
+            <Setter Property="IsTabStop" Value="False"/>
+            <Setter Property="Focusable" Value="False"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type RepeatButton}">
+                        <Border BorderBrush="Transparent"></Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style x:Key="ScrollBarThumbStyle" TargetType="{x:Type Thumb}">
+            <Setter Property="IsTabStop" Value="False"/>
+            <Setter Property="Focusable" Value="False"/>
+            <Setter Property="Margin" Value="1,0,1,0" />
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Thumb}">
+                        <Rectangle Fill="LightBlue" RadiusX="5" RadiusY="5" Margin="2"></Rectangle>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <ControlTemplate x:Key="VerticalScrollBar" TargetType="{x:Type ScrollBar}">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition MaxHeight="18"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition MaxHeight="18"/>
+                </Grid.RowDefinitions>
+
+                <RepeatButton Grid.Row="0" Height="18"
+                          Style="{StaticResource ScrollBarLineButtonStyle}"
+                          Command="ScrollBar.LineUpCommand" >
+                </RepeatButton>
+                <Track Name="PART_Track" Grid.Row="1" IsDirectionReversed="True">
+                    <Track.DecreaseRepeatButton>
+                        <RepeatButton Command="ScrollBar.PageUpCommand" Style="{StaticResource ScrollBarPageButtonStyle}">
+                        </RepeatButton>
+                    </Track.DecreaseRepeatButton>
+                    <Track.Thumb>
+                        <Thumb Style="{StaticResource ScrollBarThumbStyle}">
+                        </Thumb>
+                    </Track.Thumb>
+                    <Track.IncreaseRepeatButton>
+                        <RepeatButton Command="ScrollBar.PageDownCommand" Style="{StaticResource ScrollBarPageButtonStyle}">
+                        </RepeatButton>
+                    </Track.IncreaseRepeatButton>
+                </Track>
+                <RepeatButton Grid.Row="3" Height="18"
+                          Style="{StaticResource ScrollBarLineButtonBottomStyle}"
+                          Command="ScrollBar.LineDownCommand">
+                </RepeatButton>
+            </Grid>
+        </ControlTemplate>
+
+        <Style TargetType="{x:Type ScrollBar}">
+            <Setter Property="Template" Value="{StaticResource VerticalScrollBar}"/>
+        </Style>
+    </Page.Resources>
+
+    <ScrollViewer x:Name="Theory" Margin="20">
+        <StackPanel>
+            <StackPanel.Resources>
+                <Style TargetType="TextBlock" x:Key="Title">
+                    <Setter  Property="Margin" Value="20,20,5,20"/>
+                    <Setter Property="FontSize" Value="26" />
+                    <Setter Property="TextAlignment" Value="Center"/>
+                    <Setter Property="FontWeight" Value="Bold"/>
+                    <Setter Property="TextWrapping" Value="Wrap"/>
+                </Style>
+
+                <Style x:Key="Content" TargetType="TextBlock">
+                    <Setter Property="TextAlignment" Value="Justify"/>
+                    <Setter Property="Margin" Value="15,0,10,0"/>
+                    <Setter Property="FontSize" Value="16"/>
+                    <Setter Property="TextWrapping" Value="Wrap"/>
+                </Style>
+            </StackPanel.Resources>
+            <TextBlock Text="Код Бодо" Style="{StaticResource Title}"/>
+
+            <TextBlock Text="Помимо всеми известной азбуки Морзе был и другой способ кодирования букв при передачи сообщений. Это был так называемый код Бодо, разработанный ещё в 1870 году Эмилем Бодо.
+                       В дальнейшем на его основе был разработан код CCITT-1, ставший международным стандартом для телеграфной коммуникации. Каждый символ кодировался пятью битами, и это позволит криптографам использовать это для создания шифров" Style="{StaticResource Content}"/>
+
+
+           
+            <Border BorderThickness="3" CornerRadius="5" BorderBrush="Black" VerticalAlignment="Top" Margin="0,20,0,0" HorizontalAlignment="Center"
+                Width="465" Height="135">
+                <Image Source="Code_Bodo.jpg"/>
+            </Border>
+
+            <TextBlock x:Name="End_Title" Text="Шифр Вернама"  Style="{StaticResource Title}"/>
+
+            <TextBlock Text="В 1917 году американский инженер Гилберт Вернам разрабатывает шифр, впоследствие названный в честь него. Основой этого шифра является использование логической операции ''исключающего ИЛИ'', таблица истинности
+                       которой представлена ниже. Для шифрования с помощью этой операции объединялись биты исходного текста и биты секретного ключа, при этом при повторном наложении ключа внось получался исходный текст. Шифр был поистине гениален своей простотой и надёжностью, поэтому он является актуальным и используемым и по сей день" Style="{StaticResource Content}"/>
+
+            <Border x:Name="XORbrd" BorderThickness="3" CornerRadius="5" BorderBrush="Black" VerticalAlignment="Top" Margin="0,20,0,0" HorizontalAlignment="Center"
+                Width="235" Height="210">
+                <Image Source="XOR.jpg"/>
+            </Border>
+
+            <TextBlock x:Name="StartText_Title" Text="Диски-генераторы"  Style="{StaticResource Title}"/>
+
+            <TextBlock Text="Шифр является криптостойким, однако основная проблема данного шифра является создание секретного ключа, близкого к истинно случайному. Попытка реализации генератора таких псевдослучайных ключей и была реализована в «Лоренце».
+«Лоренц» использовал 12 вращающихся дисков, объединённых в следующие группы: первые пять – так называемые «пси»-диски, следующие два - «мю»-диски и, наконец, последние пять – «хи»-диски. На каждом располагалось разное количество контактов в зависимости от порядка диска: 43, 47, 51, 53, 59, 37, 61, 41, 31, 29, 26, 23 соответственно. Поэтому обозначение диска включало в себя группу и количество контактов, например, µ61. При этом каждый контакт мог быть либо в активном (поднятом) положении, либо в неактивном (опущенном), что соответствует состояниям «1» и «0» соответственно. При этом контакты, играющие роль битов, на пси- и хи-дисках (по одному с каждого диска) формировали секретный ключ, путём объединения битов разных групп с помощью операции «исключающее ИЛИ».Стоит отметить, что длина ключа в данном случае соответствует длине открытого текста, что намного увеличивает криптостойкость данного шифра.
+При нажатии на клавишу, введённая буква кодируется и шифруется вышеописанным методом, после чего диски поворачиваются и образуют новую битовую комбинацию, а значит и новый ключ. Диски поворачиваются следующим образом: все хи-диски смещались на одну позицию, ровно как и диск µ61, соседний же µ37, смещался только, если текущий контакт µ61 находится в активном состоянии, если текущий контакт диска µ37 в активном состоянии – то на одну позицию смещаются все пси-диски.
+
+" Style="{StaticResource Content}"/>
+                        
+            <Border BorderThickness="3" CornerRadius="5" BorderBrush="Black" VerticalAlignment="Top" Margin="0,20,0,0" HorizontalAlignment="Center"
+                Width="420" Height="239">
+                <Image Source="CryptoWheels.jpg"/>
+            </Border>
+            <TextBlock Text="Ещё одним методом усиления безопасности шифра является кодирование небуквенных символов используемого алфавита. Так, у машины при наборе текста есть два режима работы, назовём их буквенным и символьным, между которыми «Лоренц» переключается самостоятельно, без вмешательства оператора, сам же переход между ними отображается в виде контрольных цифр. Изначально, машина работает в буквенном режиме, в случае, когда оператор начинает вводить символы, не являющиеся буквами, устройство передаёт контрольную цифру «5», обозначающую начало символьного режима, и шифрует её так же, как и обычный текст, после чего вместо вводимых символов на шифрование передаются символы им соответствующие, например, цифрам от 1 до 0 (1, 2,…, 9,0 – как на клавиатуре компьютера) соответствуют буквы из первой строчки в раскладке QWERTY. Когда же оператор снова начинает печатать буквы, устройство передаёт контрольную цифру «8», обозначающую конец символьного режима. Исключение составляет символ пробела – он относится к буквенному режиму, при вводе же он кодируется контрольной цифрой «9». Т.е. если бы оператор набирал сообщение «LORENZ SZ40 IS UNBREAKABLE», то шифровалась бы последовательность промежуточного кода, представляющая собой строку «LORENZ9SZ5RP89IS9UNBREAKABLE». С учётом обилия в сообщениях цифр и пунктуационных знаков, длина шифр-текста значительно отличалась от открытого текста, что существенно усложняло криптоанализ." Style="{StaticResource Content}"/>
+            <TextBlock Text="В следующем разделе Вы узнаете, как использовать эту программу для шифрования своих сообщений."  Style="{StaticResource Content}"/>
+        </StackPanel>
+    </ScrollViewer>
+</Page>
